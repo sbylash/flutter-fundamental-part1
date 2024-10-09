@@ -30,4 +30,8 @@ A new Flutter project.
 <img src="images/07.png">
 <img src="images\08.png">
 
-## Tugas Praktikum
+### Tugas Praktikum
+
+Menampilkan di Device
+
+<img src="images\img_device.jpg">
